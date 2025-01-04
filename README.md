@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7f5e524c-76ee-4f22-b706-6236f46edf45)# WasteDetection
+# WasteDetection
+
 I implemented a YOLOv8-based approach to train a machine learning model for waste detection. The process involved preparing a dataset comprising images and videos that depict various types of waste. Using the YOLOv8 framework, I annotated and labeled the data to create a robust training set. The model was then trained to accurately identify and classify waste in both still images and video frames. After training, I fine-tuned the model to optimize its performance and tested it extensively to ensure reliable detection across diverse scenarios. The resulting model is capable of efficiently identifying waste in real-world images and video footage.
 
 The result of the trained modal is given below:
